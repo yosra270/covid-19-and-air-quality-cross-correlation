@@ -1,0 +1,86 @@
+	PM2.5 :
+
+(mn https://sites.wustl.edu/acag/datasets/surface-pm2-5/ (whashinton university in st. luois))
+
+Annual and monthly mean PM2.5 [ug/m3] at 0.01° × 0.01°:
+[https://wustl.box.com/v/ACAG-V5GL02-GWRPM25]
+
+Annual and monthly mean PM2.5 [ug/m3] at 0.1° × 0.1°:
+[https://wustl.box.com/v/ACAG-V5GL02-GWRPM25c0p10]
+
+Annual and monthly mean PM2.5 Uncertainty [ug/m3] at 0.01° × 0.01°:
+[https://wustl.box.com/v/ACAG-V5GL02-GWRPM25SIGMA]
+
+Prob : not sure ama fort probable data bin 1998-2019 khw
+
+-------------
+	temperature, precipitation, winds, humidity and radiation across the contiguous United States from 1979 :
+(mn Google Earth Engine for Developers)
+https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET
+
+
+------------
+	Weather, Air Pollution, and COVID-19 Transmission (projections)
+https://projects.iq.harvard.edu/covid19
+
+------------
+	COVID-19 (vaccination, deaths, ...) :
+https://www.ecdc.europa.eu/en/covid-19/data
+
+https://ncov.dxy.cn/ncovh5/view/en_pneumonia_area?aid=TUN&from=dxy&link=&share=&source=
+
+https://coronavirus.jhu.edu/about/how-to-use-our-data
+https://github.com/CSSEGISandData/COVID-19 (cases and deaths)
+https://github.com/govex/COVID-19 (vaccine)
+https://coronavirus.jhu.edu/region/tunisia#vaccine-tracker
+
+https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases ( hya nafsha mte3 github CSSEGi ama since 22 January 2022)
+
+https://ourworldindata.org/covid-vaccinations (sources at the end of the page)
+https://github.com/owid/covid-19-data/tree/master/public/data
+
+
+https://data.humdata.org/dataset/movement-range-maps (social distancing)
+https://data.humdata.org/dataset/tunisia-healthsites (health facilities : pharmacy, hospitals w locations mte3hom) kifkif https://data.humdata.org/dataset/hotosm_tun_health_facilities
+https://data.humdata.org/dataset/who-data-for-tunisia (health indicators : amal l 7ayet aand l wileda ...)
+https://data.humdata.org/dataset/world-bank-environment-indicators-for-tunisia (feha kol chay aal environment minha PM2.5 air pollution, PM2.5 pollution w CO2 emissions ama mafamech NO2 w PM10 )
+https://data.humdata.org/dataset/world-bank-combined-indicators-for-tunisia (health, climate change, ...)
+https://data.humdata.org/dataset?q=tunisia&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25 (datasets aala tunisia)
+https://data.humdata.org/dataset/total-covid-19-tests-performed-by-country (covid-19 testing)
+https://data.humdata.org/dataset/covid19_africa_continental_infections-recoveries-deaths (infections, recoveries & deaths f africa mil covid)
+https://data.humdata.org/dataset/covid-19-high-frequency-indicators (93 harmonized indicators on 14 topics (demographic, food security, education, labor, health..) on households and individuals in 44 countries across all developing regions.)
+https://data.humdata.org/dataset/dhs-subnational-data-for-tunisia (demographic and health data)
+https://data.humdata.org/dataset/who-data-for-tunisia (everything)
+https://data.humdata.org/dataset/world-bank-urban-development-indicators-for-tunisia (PM2.5 air pollution)
+https://data.humdata.org/dataset/world-bank-health-indicators-for-tunisia (fih ambient air pollution)
+
+https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+
+https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County-/3nnm-4jni (aal US w fama "export" bch nekhdhou dataset)
+
+https://data.cdc.gov/browse?limitTo=datasets (CDC datasets aal covid-19 : fama export w fama zeda API l datasets)
+
+https://www.worldometers.info/coronavirus/country/tunisia/
+
+https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+
+https://coronavirus.1point3acres.com/en/data (need to fill a request)
+
+https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh (US only)
+
+----------
+	Stats aala kol chay (health, population, economy, environment, ..) :
+http://data.un.org/default.aspx (UN stats)
+
+
+----------
+	Weather :
+https://www.ecmwf.int/en/forecasts/datasets
+https://openweathermap.org/api (api)
+
+
+----------
+	Air Quality :
+https://openaq.org/#/countries (hata algeria mawjouda w tounes le :'()
+https://github.com/derevirn/covid19-pollution/blob/master/README.md (sentinelsat , harp and cartopy libraries to download, process and visualize the NO2 satellite data)
+https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p (data aal air quality, climate, ozone) wela https://scihub.copernicus.eu/ en général i guess w https://sentinelsat.readthedocs.io/en/stable/ hya l API
