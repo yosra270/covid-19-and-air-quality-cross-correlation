@@ -13,6 +13,15 @@ Annual and monthly mean PM2.5 Uncertainty [ug/m3] at 0.01° × 0.01°:
 
 Prob : not sure ama fort probable data bin 1998-2019 khw
 
+____
+
+https://data.humdata.org/dataset/world-bank-environment-indicators-for-tunisia (feha kol chay aal environment minha PM2.5 air pollution, PM2.5 pollution w CO emissions ama mafamech NO2 w PM10 je pense (9rit description ama mezlt ma 7alitch l dataset))
+
+
+https://data.humdata.org/dataset/world-bank-urban-development-indicators-for-tunisia (feha PM2.5 air pollution)
+https://data.humdata.org/dataset/world-bank-health-indicators-for-tunisia (fih ambient air pollution)
+
+PS : f ekher deux liens ynajim ykoun fama d'autres polluantes ghir PM2.5 ama ma naarch kn mawjoud MP10 (mezlt ma 7alicth dataset 9rit description mte3hom khw hata l tawa)
 -------------
 	temperature, precipitation, winds, humidity and radiation across the contiguous United States from 1979 :
 (mn Google Earth Engine for Developers)
@@ -43,7 +52,6 @@ https://github.com/owid/covid-19-data/tree/master/public/data
 https://data.humdata.org/dataset/movement-range-maps (social distancing)
 https://data.humdata.org/dataset/tunisia-healthsites (health facilities : pharmacy, hospitals w locations mte3hom) kifkif https://data.humdata.org/dataset/hotosm_tun_health_facilities
 https://data.humdata.org/dataset/who-data-for-tunisia (health indicators : amal l 7ayet aand l wileda ...)
-https://data.humdata.org/dataset/world-bank-environment-indicators-for-tunisia (feha kol chay aal environment minha PM2.5 air pollution, PM2.5 pollution w CO2 emissions ama mafamech NO2 w PM10 )
 https://data.humdata.org/dataset/world-bank-combined-indicators-for-tunisia (health, climate change, ...)
 https://data.humdata.org/dataset?q=tunisia&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25 (datasets aala tunisia)
 https://data.humdata.org/dataset/total-covid-19-tests-performed-by-country (covid-19 testing)
@@ -51,8 +59,6 @@ https://data.humdata.org/dataset/covid19_africa_continental_infections-recoverie
 https://data.humdata.org/dataset/covid-19-high-frequency-indicators (93 harmonized indicators on 14 topics (demographic, food security, education, labor, health..) on households and individuals in 44 countries across all developing regions.)
 https://data.humdata.org/dataset/dhs-subnational-data-for-tunisia (demographic and health data)
 https://data.humdata.org/dataset/who-data-for-tunisia (everything)
-https://data.humdata.org/dataset/world-bank-urban-development-indicators-for-tunisia (PM2.5 air pollution)
-https://data.humdata.org/dataset/world-bank-health-indicators-for-tunisia (fih ambient air pollution)
 
 https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 
