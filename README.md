@@ -1,1 +1,1 @@
-# covid-19-and-air-quality-cross-correlation
+# Covid-19 and Air Quality Cross-correlation
