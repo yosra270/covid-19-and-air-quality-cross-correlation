@@ -32,6 +32,9 @@ https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET
 	Weather, Air Pollution, and COVID-19 Transmission (projections)
 https://projects.iq.harvard.edu/covid19
 
+
+
+
 ------------
 	COVID-19 (vaccination, deaths, ...) :
 https://www.ecdc.europa.eu/en/covid-19/data
@@ -100,3 +103,9 @@ https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p (data aal air 
 Plan B :
 
 https://www.kaggle.com/datasets/e626783d4672f182e7870b1bbe75fae66bdfb232289da0a61f08c2ceb01cab01?resource=download (juste ne9es l bled)
+
+
+------
+Daily data in Europe By region (not patient)
+
+https://www.ecdc.europa.eu/en/publications-data/covid-19-testing
