@@ -1,0 +1,147 @@
+----------------- Aycha -----------------
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Belgium
+Belize
+Benin
+Bolivia
+Bosnia and Herzegovina
+Brazil
+Bulgaria
+Burkina Faso
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Congo 
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cyprus
+Czechia
+Denmark
+Dominican Republic
+Ecuador
+Egypt
+Estonia
+Ethiopia
+Finland
+France
+Gabon
+Gambia
+Georgia
+------------------------------------------
+------------------------------------------
+------------------------------------------
+----------------- Fatma  -----------------
+------------------------------------------
+------------------------------------------
+------------------------------------------
+Germany
+Ghana
+Greece
+Guatemala
+Guinea
+Guyana
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Liberia
+Libya
+Lithuania
+Luxembourg
+Madagascar
+Malaysia
+Mali
+Malta
+Mauritania
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Namibia
+Nepal
+Netherlands
+New Zealand
+------------------------------------------
+------------------------------------------
+----------------- Yosra  -----------------
+------------------------------------------
+------------------------------------------
+Nicaragua
+Niger
+Nigeria
+Norway
+Pakistan
+Papua New Guinea
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Sweden
+Switzerland
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Trinidad and Tobago
+Turkey
+US
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uzbekistan
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
